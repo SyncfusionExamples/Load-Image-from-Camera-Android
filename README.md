@@ -4,7 +4,7 @@ This repository contains sample on how to load the image from Camera into the [S
 ## Syncfusion controls:
 
 This project used the following Syncfusion control(s):
-* SfImageEditor
+* SfImageEditor for Android.
 
 ## Supported platforms
 
